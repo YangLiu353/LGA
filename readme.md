@@ -65,6 +65,6 @@ regularization was conducted using a weight decay of 1e-3, and we set the learni
  *   python CODtest_metrics.py
 
 #  Architecture and Details
-https://github.com/YangLiu353/LGA/blob/main/1.jpg
+
 # Results
 
