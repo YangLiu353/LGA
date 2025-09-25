@@ -67,4 +67,4 @@ regularization was conducted using a weight decay of 1e-3, and we set the learni
 #  Architecture and Details
 1.jpg
 # Results
-
+https://github.com/YangLiu353/LGA/blob/4772f139f1d808194876d187cc2a00c7497549b3/2.jpg
