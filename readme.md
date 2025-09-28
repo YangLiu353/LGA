@@ -1,7 +1,7 @@
 # LGANet: Lightweight Joint Global Attention Network for RGB-D Camouflaged Object Detection
 
 Source code and dataset for our paper "LGANet: Lightweight Joint Global Attention Network for RGB-D Camouflaged Object Detection" by Yang Liu, Shuhan Chen, Haonan Tang, and Shiyu Wang. 
-The Visual Computer is under review.
+The code will be uploaded subsequently.
 
 # Training/Testing
 
@@ -22,7 +22,7 @@ The training and testing experiments are conducted using [PyTorch]( https://gith
 
 2.  Precision_and_recall：（ https://en.wikipedia.org/wiki/Precision_and_recall ）  
  
-3.  BDE_Measure： [Baidu Drive]（ https://pan.baidu.com/s/1OorwYFq0ZY2I99ONoIF6Ig 提取码: 353X ）
+3.  Dice/IoU_Measure：cited from the paper titled 'V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation' by Milletari, Fausto.
 
 # Network hyperparameters:
 
