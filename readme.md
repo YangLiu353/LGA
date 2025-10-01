@@ -32,7 +32,7 @@ regularization was conducted using a weight decay of 1e-3, and we set the learni
 
 # Pretraining Models
 
-  * Pre_model.zip: https://pan.baidu.com/s/1o_XgboxyeUqtx2hvQ6obpQ 提取码: 353X
+  * Pre_Model.zip：https://pan.baidu.com/s/1ygJU-GH3OEhx7XqsMpoV9Q 提取码: 353X 
 
 # Reproduce
 
