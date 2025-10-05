@@ -14,7 +14,7 @@ The training and testing experiments are conducted using [PyTorch]( https://gith
 
 2.  Downloading necessary data:
 
-  * New depth map datasets are being uploaded.
+  * Downloading dataset can be found from [Baidu Drive](Dataset.zip: https://pan.baidu.com/s/15MTaixrmGBkV0ttgyZ9nZg 提取码: 353X).
 
 # Evaluation
                                                                           
